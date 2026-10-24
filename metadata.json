@@ -1,0 +1,6 @@
+{
+  "name": "A White Rose For My Pakode Jaise Naak",
+  "description": "A dreamy, interactive romantic love surprise for my girlfriend with an animated white rose, heartfelt letters, cute choices, and petal mini-game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
